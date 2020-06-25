@@ -3,4 +3,23 @@
 </p>
 <h1 align="center">Super</h1>
 
-🚀 Super lists about all kinds of interesting topics 
+🚀 Super lists about all kinds of interesting topics
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+## License
+
+## Contact
+
+## Acknowledgements
